@@ -1,5 +1,5 @@
 {
-    "name": "gaomingcode/jquery-spinner",
+    "name": "gaomingcode/jquery.spinner",
     "description": "A Bootstrap 5 / jQuery plugin to create input spinner elements for number input.",
     "type": "library",
     "license": [
