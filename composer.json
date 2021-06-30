@@ -1,0 +1,18 @@
+{
+    "name": "gaomingcode/jquery-spinner",
+    "description": "A Bootstrap 5 / jQuery plugin to create input spinner elements for number input.",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
+    "keywords": ["Bootstrap 5", "Bootstrap", "jQuery", "Widget", "Html", "Input", "UI"],
+    "homepage": "https://shaack.com/en/open-source-components",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Stefan Haack",
+            "homepage": "https://shaack.com"
+        }
+    ]
+}

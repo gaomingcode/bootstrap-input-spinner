@@ -1,5 +1,19 @@
 # bootstrap-input-spinner
 
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/jquery-spinner.svg)](https://github.com/gaomingcode/jquery-spinner)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/jquery.spinner)](https://github.com/gaomingcode/jquery-spinner)
+[![Github License](https://img.shields.io/github/license/gaomingcode/jquery-spinner)](https://github.com/gaomingcode/jquery-spinner)
+
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/jquery.spinner
+```
+
+## ReadMe from Origin
+
 A Bootstrap / jQuery plugin to create input spinner elements for number input.
 
 **[Demo page with examples](http://shaack.com/projekte/bootstrap-input-spinner/)**
